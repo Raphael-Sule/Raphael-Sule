@@ -13,6 +13,9 @@
 🌱 **Currently Learning:**
 - Java 🔍
 
+👨‍💻 **Projects:**
+- https://github.com/Raphael-Sule/3-Band-Parametric-EQ
+
 📬 **Contact:**
 - 📧 Email: raphaelsuleedu@gmail.com
 
