@@ -1,8 +1,9 @@
 👋 Hello, I'm Raphael Sule, a sophomore majoring in Computer Science at Colgate University.
 
 🌟 **About Me:**
-- 🎓 Sophomore at Colgate University
+- 🎓 Junior at Colgate University
 - 💻 Computer Science Major
+- 📚 Sociology and Asian Studies Minor
 - 🌐 Interested in Python and Java
 - 📚 Currently learning Java and C++
 
