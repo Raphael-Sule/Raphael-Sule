@@ -1,4 +1,4 @@
-👋 Hello, I'm Raphael Sule, a sophomore majoring in Computer Science at Colgate University.
+👋 Hello, I'm Raphael Sule, a junior majoring in Computer Science at Colgate University.
 
 🌟 **About Me:**
 - 🎓 Junior at Colgate University
