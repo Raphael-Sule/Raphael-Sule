@@ -3,7 +3,7 @@
 🌟 **About Me:**
 - 🎓 Junior at Colgate University
 - 💻 Computer Science Major
-- 📚 Asian Studies Minor
+- 📚 Economics & Asian Studies Minor
 - 🌐 Interested in Python and Java
 
 
