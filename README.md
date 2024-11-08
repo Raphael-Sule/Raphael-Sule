@@ -4,7 +4,7 @@
 - 🎓 Junior at Colgate University
 - 💻 Computer Science Major
 - 📚 Economics & Asian Studies Minor
-- 🌐 Interested in Python and Java
+- 🌐 Interested in Data Analytics
 
 
 🚀 **Skills:**
@@ -12,7 +12,8 @@
 - Java ☕
 
 🌱 **Currently Learning:**
-- Java 🔍
+- SQL 💻
+- R 🔍
   
 📬 **Contact:**
 - 📧 Email: raphaelsuleedu@gmail.com
